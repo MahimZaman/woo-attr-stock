@@ -4,6 +4,8 @@
  * Plugin Name: Woo Attribute Stock Management
  * Description: Stock management application for woocommerce product attributes
  * Version: 1.0
+ * Author: Mahim Zaman
+ * Author URI: https://www.mahimzaman.com
  */
 
 if (!defined('ABSPATH')) return;
@@ -469,7 +471,5 @@ add_action('admin_init', function () {
         }
     }
 });
-
-
 
 
