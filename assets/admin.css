@@ -1,0 +1,6 @@
+div#bulk-stock-count-field label {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    gap: 5px;
+}
