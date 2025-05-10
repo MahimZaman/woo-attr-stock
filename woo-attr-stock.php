@@ -6,6 +6,8 @@
  * Version: 1.0
  * Author: Mahim Zaman
  * Author URI: https://www.mahimzaman.com
+ * Text Domain: wasm
+ * Domain Path: /languages
  */
 
 if (!defined('ABSPATH')) return;
