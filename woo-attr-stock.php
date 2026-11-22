@@ -5,7 +5,8 @@
  * Description: Stock management application for woocommerce product attributes
  * Version: 1.0
  * Author: Mahim Zaman
- * Author URI: https://www.mahimzaman.com
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Text Domain: wasm
  * Domain Path: /languages
  */
